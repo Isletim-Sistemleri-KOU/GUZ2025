@@ -8,7 +8,7 @@ title: Süreçler
 thumbnail: /_images/l5.png
 
 # optional
-tldr: "Bu derste İşletim sistemlerinde "Süreçler" konusundan bahsedilecektir."
+tldr: "Bu derste İşletim sistemlerinde Süreçler konusundan bahsedilecektir."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
