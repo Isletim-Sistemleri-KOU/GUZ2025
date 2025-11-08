@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2023-11-02T12:43:10+4:30 
-title: İşletim Sistemi İşlemler
+title: Süreçler
 
 # optional
 # please use /static_files/notes directory to store notes
 thumbnail: /_images/l5.png
 
 # optional
-tldr: "Bu derste İşletim sistemlerinde işlemler konusundan bahsedilecektir."
+tldr: "Bu derste İşletim sistemlerinde "Süreçler" konusundan bahsedilecektir."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
