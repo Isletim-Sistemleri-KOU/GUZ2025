@@ -1,1 +1,1 @@
-İşletim Sistemleri GUZ2023
+İşletim Sistemleri GUZ2025
