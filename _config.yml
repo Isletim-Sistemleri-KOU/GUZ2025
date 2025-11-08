@@ -1,9 +1,9 @@
 # Site settings
 course_name: İşletim Sistemleri
 course_description: "İşletim Sistemleri"
-course_semester: "GUZ2023"
+course_semester: "GUZ2025"
 
-baseurl: "/GUZ2023" # the subpath of your site, e.g. /blog/
+baseurl: "/GUZ2025" # the subpath of your site, e.g. /blog/
 url: "https://isletim-sistemleri-kou.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Kocaeli Üniversitesi"
