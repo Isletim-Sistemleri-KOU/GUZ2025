@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2023-11-13T12:43:10+4:30 
-title: İşletim Sistemi Threads
+title: İş Paçacıkları
 
 # optional
 # please use /static_files/notes directory to store notes
 thumbnail: /_images/l6.png
 
 # optional
-tldr: "Bu derste İşletim sistemlerinde threadler konusundan bahsedilecektir."
+tldr: "Bu derste İşletim sistemlerinde İş Parçacıkları(Threads) konusundan bahsedilecektir."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
